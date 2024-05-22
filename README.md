@@ -36,4 +36,4 @@ This repository contains Python code for advanced image processing tasks includi
 To run the image processing scripts, ensure you have Python and OpenCV installed. Each script can be executed individually to perform the corresponding image processing task. Example:
 
 ```bash
-python keypoint_detection.py
+pip install requirements.txt
